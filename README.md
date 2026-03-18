@@ -213,4 +213,4 @@ Si vous utilisez ce code, merci de citer l'article :
 
 ## 📄 Licence
 
-MIT © 2025 — Auteur Un, Auteur Deux, Auteur Trois
+MIT © 2026 — Maghni Sandid Zoulikha, DENNOUNI Nassim, SLAMA Zohra
